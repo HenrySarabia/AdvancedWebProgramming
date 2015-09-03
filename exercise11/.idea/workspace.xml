@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f6890-4513-4310-9fbc-35117c946d52" name="Default" comment="" />
-    <ignored path="names.iws" />
+    <list default="true" id="ddef72ea-f4a4-4953-84fd-29953f732f3c" name="Default" comment="" />
+    <ignored path="exercise11.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +17,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="names" />
+    <favorites_list name="exercise11" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="names.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/names.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0655527">
-              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            <state vertical-scroll-proportion="0.4151671">
+              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -36,7 +36,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go Application" />
         <option value="Go File" />
       </list>
     </option>
@@ -44,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/names.go" />
         <option value="$PROJECT_DIR$/main.go" />
       </list>
     </option>
@@ -84,52 +82,52 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="names" />
+              <option name="myItemId" value="exercise11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="names" />
+              <option name="myItemId" value="exercise11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="names" />
+              <option name="myItemId" value="exercise11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercise11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="" />
-      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\names" />
-      <filePath value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\names" />
+      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\exercise11" />
+      <filePath value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\exercise11" />
       <kind value="FILE" />
       <method />
     </configuration>
     <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
       <module name="" />
-      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\names" />
-      <filePath value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\names" />
+      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\exercise11" />
+      <filePath value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\exercise11" />
       <method />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="" />
-      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\names" />
+      <working_directory value="D:\Documents\Go\src\github.com\HenrySarabia\AdvancedWebProgramming\exercise11" />
       <framework value="gotest" />
       <kind value="DIRECTORY" />
       <method />
@@ -184,10 +182,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/names.go">
+    <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0655527">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.4151671">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding />
         </state>
       </provider>
