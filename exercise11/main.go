@@ -1,3 +1,5 @@
+//This is a simple program that will simulate a trivial conversation.
+
 package main
 
 import "fmt"
