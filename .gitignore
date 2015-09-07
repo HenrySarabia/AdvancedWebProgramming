@@ -71,8 +71,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Webstorm
-*.idea
 .idea
-idea
-_.idea
-_idea
