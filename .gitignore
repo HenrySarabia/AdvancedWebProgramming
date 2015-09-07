@@ -72,3 +72,7 @@ $RECYCLE.BIN/
 
 # Webstorm
 *.idea
+.idea
+idea
+_.idea
+_idea
