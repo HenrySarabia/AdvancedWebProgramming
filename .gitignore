@@ -70,7 +70,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Webstorm
+# Webstorm Directories
 .idea
 _idea
 _.idea
