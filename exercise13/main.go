@@ -3,8 +3,7 @@ Author: Henry Sarabia
 Description:
 	This is a small program that will evaluate a simple mathematical expression
 	using slices, scans, and recursion. The program is based on a context free grammar
-	for solving infix expressions. As of now, the program will not compute the correct
-	output if the characters are not spaced apart, but this can be changed later.
+	for solving infix expressions.
  */
 package main
 
